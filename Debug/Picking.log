@@ -1,0 +1,19 @@
+﻿  main.cpp
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Picking\Picking\main.cpp(194,33): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Picking\Picking\main.cpp(232,30): warning C4244: 'argumento': conversión de 'GLdouble' a 'GLfloat'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Picking\Picking\main.cpp(232,24): warning C4244: 'argumento': conversión de 'GLdouble' a 'GLfloat'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Picking\Picking\main.cpp(232,18): warning C4244: 'argumento': conversión de 'GLdouble' a 'GLfloat'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Picking\Picking\main.cpp(233,37): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Picking\Picking\main.cpp(276,24): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Picking\Picking\main.cpp(276,18): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Picking\Picking\main.cpp(301,24): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Picking\Picking\main.cpp(301,18): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Picking\Picking\main.cpp(370,40): warning C4305: '-=': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Picking\Picking\main.cpp(372,40): warning C4305: '+=': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Picking\Picking\main.cpp(396,61): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Picking\Picking\main.cpp(401,58): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Picking\Picking\main.cpp(407,60): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Picking\Picking\main.cpp(409,56): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Picking\Picking\main.cpp(415,63): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Picking\Picking\main.cpp(417,59): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Picking.vcxproj -> D:\Users\carro\Desktop\Proyectos_DIMRV\SDL_Prácticas\Picking\Debug\Picking.exe
